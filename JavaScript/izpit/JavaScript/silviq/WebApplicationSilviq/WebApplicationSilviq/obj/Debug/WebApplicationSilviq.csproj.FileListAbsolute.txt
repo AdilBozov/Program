@@ -1,0 +1,6 @@
+D:\Soft\JavaScript\izpit\JavaScript\silviq\WebApplicationSilviq\WebApplicationSilviq\bin\WebApplicationSilviq.dll.config
+D:\Soft\JavaScript\izpit\JavaScript\silviq\WebApplicationSilviq\WebApplicationSilviq\bin\WebApplicationSilviq.dll
+D:\Soft\JavaScript\izpit\JavaScript\silviq\WebApplicationSilviq\WebApplicationSilviq\bin\WebApplicationSilviq.pdb
+D:\Soft\JavaScript\izpit\JavaScript\silviq\WebApplicationSilviq\WebApplicationSilviq\obj\Debug\WebApplicationSilviq.csprojResolveAssemblyReference.cache
+D:\Soft\JavaScript\izpit\JavaScript\silviq\WebApplicationSilviq\WebApplicationSilviq\obj\Debug\WebApplicationSilviq.dll
+D:\Soft\JavaScript\izpit\JavaScript\silviq\WebApplicationSilviq\WebApplicationSilviq\obj\Debug\WebApplicationSilviq.pdb

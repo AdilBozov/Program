@@ -1,0 +1,6 @@
+D:\Soft\Web Fundamentals HTML and CSS\CSS-Presentation\Problem 2.SoftUni Hawaii Vacation\SoftUni Hawaii Vacation\SoftUniHawaiiVacation\bin\SoftUniHawaiiVacation.dll.config
+D:\Soft\Web Fundamentals HTML and CSS\CSS-Presentation\Problem 2.SoftUni Hawaii Vacation\SoftUni Hawaii Vacation\SoftUniHawaiiVacation\bin\SoftUniHawaiiVacation.dll
+D:\Soft\Web Fundamentals HTML and CSS\CSS-Presentation\Problem 2.SoftUni Hawaii Vacation\SoftUni Hawaii Vacation\SoftUniHawaiiVacation\bin\SoftUniHawaiiVacation.pdb
+D:\Soft\Web Fundamentals HTML and CSS\CSS-Presentation\Problem 2.SoftUni Hawaii Vacation\SoftUni Hawaii Vacation\SoftUniHawaiiVacation\obj\Debug\SoftUniHawaiiVacation.csprojResolveAssemblyReference.cache
+D:\Soft\Web Fundamentals HTML and CSS\CSS-Presentation\Problem 2.SoftUni Hawaii Vacation\SoftUni Hawaii Vacation\SoftUniHawaiiVacation\obj\Debug\SoftUniHawaiiVacation.dll
+D:\Soft\Web Fundamentals HTML and CSS\CSS-Presentation\Problem 2.SoftUni Hawaii Vacation\SoftUni Hawaii Vacation\SoftUniHawaiiVacation\obj\Debug\SoftUniHawaiiVacation.pdb

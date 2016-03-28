@@ -1,0 +1,6 @@
+D:\Soft\Web Fundamentals HTML and CSS\HTML5 Tables\Problem-3-Nested-Tables\NestedTables\bin\NestedTables.dll.config
+D:\Soft\Web Fundamentals HTML and CSS\HTML5 Tables\Problem-3-Nested-Tables\NestedTables\bin\NestedTables.dll
+D:\Soft\Web Fundamentals HTML and CSS\HTML5 Tables\Problem-3-Nested-Tables\NestedTables\bin\NestedTables.pdb
+D:\Soft\Web Fundamentals HTML and CSS\HTML5 Tables\Problem-3-Nested-Tables\NestedTables\obj\Debug\NestedTables.csprojResolveAssemblyReference.cache
+D:\Soft\Web Fundamentals HTML and CSS\HTML5 Tables\Problem-3-Nested-Tables\NestedTables\obj\Debug\NestedTables.dll
+D:\Soft\Web Fundamentals HTML and CSS\HTML5 Tables\Problem-3-Nested-Tables\NestedTables\obj\Debug\NestedTables.pdb

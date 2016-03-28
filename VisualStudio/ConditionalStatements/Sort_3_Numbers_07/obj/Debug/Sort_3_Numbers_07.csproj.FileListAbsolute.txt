@@ -1,0 +1,5 @@
+D:\Soft\VisualStudio\ConditionalStatements\Sort_3_Numbers_07\bin\Debug\Sort_3_Numbers_07.exe.config
+D:\Soft\VisualStudio\ConditionalStatements\Sort_3_Numbers_07\bin\Debug\Sort_3_Numbers_07.exe
+D:\Soft\VisualStudio\ConditionalStatements\Sort_3_Numbers_07\bin\Debug\Sort_3_Numbers_07.pdb
+D:\Soft\VisualStudio\ConditionalStatements\Sort_3_Numbers_07\obj\Debug\Sort_3_Numbers_07.exe
+D:\Soft\VisualStudio\ConditionalStatements\Sort_3_Numbers_07\obj\Debug\Sort_3_Numbers_07.pdb

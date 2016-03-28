@@ -1,0 +1,6 @@
+D:\Soft\Web Fundamentals HTML and CSS\CSS-Presentation\Problem 3.Styling a HTML Form\Styling a HTML Form\StylingHTMLForm\bin\StylingHTMLForm.dll.config
+D:\Soft\Web Fundamentals HTML and CSS\CSS-Presentation\Problem 3.Styling a HTML Form\Styling a HTML Form\StylingHTMLForm\bin\StylingHTMLForm.dll
+D:\Soft\Web Fundamentals HTML and CSS\CSS-Presentation\Problem 3.Styling a HTML Form\Styling a HTML Form\StylingHTMLForm\bin\StylingHTMLForm.pdb
+D:\Soft\Web Fundamentals HTML and CSS\CSS-Presentation\Problem 3.Styling a HTML Form\Styling a HTML Form\StylingHTMLForm\obj\Debug\StylingHTMLForm.csprojResolveAssemblyReference.cache
+D:\Soft\Web Fundamentals HTML and CSS\CSS-Presentation\Problem 3.Styling a HTML Form\Styling a HTML Form\StylingHTMLForm\obj\Debug\StylingHTMLForm.dll
+D:\Soft\Web Fundamentals HTML and CSS\CSS-Presentation\Problem 3.Styling a HTML Form\Styling a HTML Form\StylingHTMLForm\obj\Debug\StylingHTMLForm.pdb

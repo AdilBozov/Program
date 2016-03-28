@@ -1,0 +1,143 @@
+﻿body,h1, header, p, a, footer, nav, main, table, td, tr, th, ul, li {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+@font-face {
+  font-family: 'Nunito';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Nunito-Bold'), url(http://fonts.gstatic.com/s/nunito/v7/TttUCfJ272GBgSKaOaD7KhJtnKITppOI_IvcXXDNrsc.woff2) format('woff2');
+  unicode-range: U+0000-00FF, U+0131, U+0152-0153, U+02C6, U+02DA, U+02DC, U+2000-206F, U+2074, U+20AC, U+2212, U+2215, U+E0FF, U+EFFD, U+F000;
+}
+
+@font-face {
+    font-family: 'Fairview';
+    src: url('file:///D:\Soft\JavaScript\izpit\HTML\AwesomeSite\font\Fairview_Regular.otf') format('opentype');
+}
+
+
+/*body  header, body footer, body main{
+    border: 1px solid red;
+}*/
+
+body{
+    font-family: Nunito, Arial, sans-serif;
+}
+
+body>header{
+    font-family:Fairview, Helvetica, sans-serif;
+    font-size:25px;
+    margin-bottom:20px;
+}
+
+    body>header>h1 a {
+        text-decoration:none;
+        color:white;
+    }
+
+    body>header>h1 a:hover{
+        color:black;
+    }
+
+body header nav{
+    margin-top:20px;
+}
+
+body nav ul{
+    text-align:center;
+}
+
+    body nav ul li {
+        display:inline-block;
+    }
+
+        body header nav ul li:nth-of-type(3) a {
+            background-color:#ff6347;
+            color:white;
+        }
+
+            body header nav ul li a {
+                text-decoration:none;
+                color:#666666;
+                padding:10px;
+            }
+
+                 body header nav ul li a:hover{
+                     color:black;
+                     font-weight:bold;
+                 }
+
+body header h1{
+    background-color: #e85e43;
+    color:white;
+    font-size:100px;
+    text-align:center;
+}
+
+body main {
+    width: 670px;
+    margin: 0 auto;
+}
+
+body main table{
+    width: 100%;
+    text-align:left;
+    margin-bottom:20px;
+}
+
+body main table a{
+    color:#aa0000;
+    text-decoration:none;
+    border-bottom: 1px dotted #aa0000;
+}
+
+body main table a:hover{
+    color:black;
+    border-bottom: 1px solid #aa0000;
+}
+
+body main table th, body main table td{
+    padding:10px;
+}
+
+body main table thead tr:first-child th{
+    border-bottom:1px solid gray;
+}
+
+body footer{
+    text-align:center;
+    background-color: #222222;
+    padding: 30px;
+}
+
+body footer a{
+    color:#42433b;
+    text-decoration:none;
+}
+
+body footer a:hover{
+    color:white;
+}
+
+body footer nav{
+    border-bottom: 1px solid gray;
+    padding-bottom:20px;
+}
+
+body footer>a{
+    margin:15px;
+}
+
+body footer nav a{
+    color:#b7b7b7;
+    text-decoration:none;
+    font-weight:bold;
+    padding: 10px;
+}
+
+body footer nav a:hover{
+    background-color:gray;
+    color:#aa0000;
+}

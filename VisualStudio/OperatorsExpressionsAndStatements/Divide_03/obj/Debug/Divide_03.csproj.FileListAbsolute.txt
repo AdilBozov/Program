@@ -1,0 +1,5 @@
+D:\Soft\VisualStudio\OperatorsExpressionsAndStatements\Divide_03\bin\Debug\Divide_03.exe.config
+D:\Soft\VisualStudio\OperatorsExpressionsAndStatements\Divide_03\bin\Debug\Divide_03.exe
+D:\Soft\VisualStudio\OperatorsExpressionsAndStatements\Divide_03\bin\Debug\Divide_03.pdb
+D:\Soft\VisualStudio\OperatorsExpressionsAndStatements\Divide_03\obj\Debug\Divide_03.exe
+D:\Soft\VisualStudio\OperatorsExpressionsAndStatements\Divide_03\obj\Debug\Divide_03.pdb

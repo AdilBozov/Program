@@ -1,0 +1,10 @@
+{
+  "name": "_7_ProblemTheLifetimeSupplyCalculator",
+  "version": "0.0.0",
+  "description": "7_ProblemTheLifetimeSupplyCalculator",
+  "main": "app.js",
+  "author": {
+    "name": "Adil Bozov",
+    "email": ""
+  }
+}

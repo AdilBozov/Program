@@ -1,0 +1,103 @@
+﻿body, form, h1, p,input {
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+@font-face {
+    font-family: 'Yanone Kaffeesatz Regular';
+    src: url('../fond/yanonekaffeesatz-regular-webfont.ttf') format('truetype');
+}
+
+    body #wrapper {
+        background-image: url('../img/form-background.png');
+        font-family:Yanone Kaffeesatz Regular, Arial, sans-serif;
+        position:relative;
+    }
+
+body section:first-child {
+        background-image: url('../img/envelope-top.png');
+        background-position-x:center;
+        background-position-y:bottom;
+        background-repeat:no-repeat;
+        border:1px solid red;
+        width:600px;
+        margin: 0 auto;
+        z-index:10;
+}
+
+body section:first-child header{
+    text-align:center;
+    margin:20px;
+    font-size:40px;
+}
+
+    body section:first-child form {
+        border: 1px solid green;
+        background-image: url('../img/letter-background.png');
+        width:400px;
+        height:400px;
+        margin:0 auto;
+        padding:20px;
+        z-index:5px;
+    }
+
+    body section:first-child form label{
+        display:block;
+        color:gray;
+        text-transform:uppercase;
+    }
+
+    body section:first-child form input{
+        display:block;
+        margin:0 auto;
+    }
+    body section:first-child form input[type=submit]{
+        border:none;
+        background:transparent;
+        font-family:Yanone Kaffeesatz Regular;
+        font-size:large;
+        padding:5px;
+    }
+
+    body section:first-child form input[type=submit]:hover{
+        background-color:gray;
+        border-radius:2px;
+        font-weight:bold;
+        cursor:pointer;
+    }
+
+    body section:first-child form p{
+        font-size:15px;
+    }
+
+    body section:first-child form input[type=text],
+    body section:first-child form textarea,
+    body section:first-child form input[type=email]{
+        width:100%;
+        margin-bottom:15px;
+        padding:5px;
+        background: transparent;
+        border:1px solid gray;
+        outline:none;
+    }
+
+    body section:first-child form input[type=text]:focus,
+    body section:first-child form textarea:focus,
+    body section:first-child form input[type=email]:focus{
+        background-color:white;
+        font-family:Helvetica;
+    }
+
+    body section:last-child {
+        background-image: url('../img/envelope-bottom.png');
+        background-repeat:no-repeat;
+        background-position-x:center;
+        background-position-y:-150px;
+        border:1px solid blue;
+        width:600px;
+        margin: 0 auto;
+        height:300px;
+        z-index:0;
+        margin-top:-100px
+    }

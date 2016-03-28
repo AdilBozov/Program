@@ -1,0 +1,6 @@
+D:\Soft\Web Fundamentals HTML and CSS\HomeworkHTML5Overview\CSS-Overview\CSS-Overview\bin\CSS-Overview.dll.config
+D:\Soft\Web Fundamentals HTML and CSS\HomeworkHTML5Overview\CSS-Overview\CSS-Overview\bin\CSS-Overview.dll
+D:\Soft\Web Fundamentals HTML and CSS\HomeworkHTML5Overview\CSS-Overview\CSS-Overview\bin\CSS-Overview.pdb
+D:\Soft\Web Fundamentals HTML and CSS\HomeworkHTML5Overview\CSS-Overview\CSS-Overview\obj\Debug\CSS-Overview.csprojResolveAssemblyReference.cache
+D:\Soft\Web Fundamentals HTML and CSS\HomeworkHTML5Overview\CSS-Overview\CSS-Overview\obj\Debug\CSS-Overview.dll
+D:\Soft\Web Fundamentals HTML and CSS\HomeworkHTML5Overview\CSS-Overview\CSS-Overview\obj\Debug\CSS-Overview.pdb

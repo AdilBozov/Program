@@ -1,0 +1,6 @@
+D:\Soft\JavaScript\izpit\HTML\ContactForm\bin\ContactForm.dll.config
+D:\Soft\JavaScript\izpit\HTML\ContactForm\bin\ContactForm.dll
+D:\Soft\JavaScript\izpit\HTML\ContactForm\bin\ContactForm.pdb
+D:\Soft\JavaScript\izpit\HTML\ContactForm\obj\Debug\ContactForm.csprojResolveAssemblyReference.cache
+D:\Soft\JavaScript\izpit\HTML\ContactForm\obj\Debug\ContactForm.dll
+D:\Soft\JavaScript\izpit\HTML\ContactForm\obj\Debug\ContactForm.pdb

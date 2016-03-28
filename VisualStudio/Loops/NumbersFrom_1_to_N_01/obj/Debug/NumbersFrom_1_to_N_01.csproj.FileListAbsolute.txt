@@ -1,0 +1,6 @@
+D:\Soft\VisualStudio\Loops\NumbersFrom_1_to_N_01\bin\Debug\NumbersFrom_1_to_N_01.exe.config
+D:\Soft\VisualStudio\Loops\NumbersFrom_1_to_N_01\bin\Debug\NumbersFrom_1_to_N_01.exe
+D:\Soft\VisualStudio\Loops\NumbersFrom_1_to_N_01\bin\Debug\NumbersFrom_1_to_N_01.pdb
+D:\Soft\VisualStudio\Loops\NumbersFrom_1_to_N_01\obj\Debug\NumbersFrom_1_to_N_01.csprojResolveAssemblyReference.cache
+D:\Soft\VisualStudio\Loops\NumbersFrom_1_to_N_01\obj\Debug\NumbersFrom_1_to_N_01.exe
+D:\Soft\VisualStudio\Loops\NumbersFrom_1_to_N_01\obj\Debug\NumbersFrom_1_to_N_01.pdb

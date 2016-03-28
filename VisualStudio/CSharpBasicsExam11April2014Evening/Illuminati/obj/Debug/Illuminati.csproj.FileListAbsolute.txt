@@ -1,0 +1,5 @@
+D:\Soft\VisualStudio\CSharpBasicsExam11April2014Evening\Illuminati\bin\Debug\Illuminati.exe.config
+D:\Soft\VisualStudio\CSharpBasicsExam11April2014Evening\Illuminati\bin\Debug\Illuminati.exe
+D:\Soft\VisualStudio\CSharpBasicsExam11April2014Evening\Illuminati\bin\Debug\Illuminati.pdb
+D:\Soft\VisualStudio\CSharpBasicsExam11April2014Evening\Illuminati\obj\Debug\Illuminati.exe
+D:\Soft\VisualStudio\CSharpBasicsExam11April2014Evening\Illuminati\obj\Debug\Illuminati.pdb

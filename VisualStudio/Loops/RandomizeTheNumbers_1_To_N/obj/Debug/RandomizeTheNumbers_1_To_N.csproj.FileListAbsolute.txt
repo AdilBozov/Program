@@ -1,0 +1,6 @@
+D:\Soft\VisualStudio\Loops\RandomizeTheNumbers_1_To_N\bin\Debug\RandomizeTheNumbers_1_To_N.exe.config
+D:\Soft\VisualStudio\Loops\RandomizeTheNumbers_1_To_N\bin\Debug\RandomizeTheNumbers_1_To_N.exe
+D:\Soft\VisualStudio\Loops\RandomizeTheNumbers_1_To_N\bin\Debug\RandomizeTheNumbers_1_To_N.pdb
+D:\Soft\VisualStudio\Loops\RandomizeTheNumbers_1_To_N\obj\Debug\RandomizeTheNumbers_1_To_N.csprojResolveAssemblyReference.cache
+D:\Soft\VisualStudio\Loops\RandomizeTheNumbers_1_To_N\obj\Debug\RandomizeTheNumbers_1_To_N.exe
+D:\Soft\VisualStudio\Loops\RandomizeTheNumbers_1_To_N\obj\Debug\RandomizeTheNumbers_1_To_N.pdb

@@ -1,0 +1,5 @@
+D:\Soft\VisualStudio\Loops\NumbersNotDivisibleBy_3_And_7__02\bin\Debug\NumbersNotDivisibleBy_3_And_7__02.exe.config
+D:\Soft\VisualStudio\Loops\NumbersNotDivisibleBy_3_And_7__02\bin\Debug\NumbersNotDivisibleBy_3_And_7__02.exe
+D:\Soft\VisualStudio\Loops\NumbersNotDivisibleBy_3_And_7__02\bin\Debug\NumbersNotDivisibleBy_3_And_7__02.pdb
+D:\Soft\VisualStudio\Loops\NumbersNotDivisibleBy_3_And_7__02\obj\Debug\NumbersNotDivisibleBy_3_And_7__02.exe
+D:\Soft\VisualStudio\Loops\NumbersNotDivisibleBy_3_And_7__02\obj\Debug\NumbersNotDivisibleBy_3_And_7__02.pdb

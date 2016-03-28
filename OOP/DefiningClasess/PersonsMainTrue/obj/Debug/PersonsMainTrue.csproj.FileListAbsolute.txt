@@ -1,0 +1,6 @@
+D:\Soft\02Nivo2\OOP\DefiningClasess\PersonsMainTrue\bin\Debug\PersonsMainTrue.exe.config
+D:\Soft\02Nivo2\OOP\DefiningClasess\PersonsMainTrue\bin\Debug\PersonsMainTrue.exe
+D:\Soft\02Nivo2\OOP\DefiningClasess\PersonsMainTrue\bin\Debug\PersonsMainTrue.pdb
+D:\Soft\02Nivo2\OOP\DefiningClasess\PersonsMainTrue\obj\Debug\PersonsMainTrue.csprojResolveAssemblyReference.cache
+D:\Soft\02Nivo2\OOP\DefiningClasess\PersonsMainTrue\obj\Debug\PersonsMainTrue.exe
+D:\Soft\02Nivo2\OOP\DefiningClasess\PersonsMainTrue\obj\Debug\PersonsMainTrue.pdb

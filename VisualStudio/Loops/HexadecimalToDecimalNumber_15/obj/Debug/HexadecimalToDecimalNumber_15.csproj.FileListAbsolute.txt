@@ -1,0 +1,6 @@
+D:\Soft\VisualStudio\Loops\HexadecimalToDecimalNumber_15\bin\Debug\HexadecimalToDecimalNumber_15.exe.config
+D:\Soft\VisualStudio\Loops\HexadecimalToDecimalNumber_15\bin\Debug\HexadecimalToDecimalNumber_15.exe
+D:\Soft\VisualStudio\Loops\HexadecimalToDecimalNumber_15\bin\Debug\HexadecimalToDecimalNumber_15.pdb
+D:\Soft\VisualStudio\Loops\HexadecimalToDecimalNumber_15\obj\Debug\HexadecimalToDecimalNumber_15.csprojResolveAssemblyReference.cache
+D:\Soft\VisualStudio\Loops\HexadecimalToDecimalNumber_15\obj\Debug\HexadecimalToDecimalNumber_15.exe
+D:\Soft\VisualStudio\Loops\HexadecimalToDecimalNumber_15\obj\Debug\HexadecimalToDecimalNumber_15.pdb

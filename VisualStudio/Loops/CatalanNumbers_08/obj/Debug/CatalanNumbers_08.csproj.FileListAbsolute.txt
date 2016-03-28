@@ -1,0 +1,6 @@
+D:\Soft\VisualStudio\Loops\CatalanNumbers_08\bin\Debug\CatalanNumbers_08.exe.config
+D:\Soft\VisualStudio\Loops\CatalanNumbers_08\bin\Debug\CatalanNumbers_08.exe
+D:\Soft\VisualStudio\Loops\CatalanNumbers_08\bin\Debug\CatalanNumbers_08.pdb
+D:\Soft\VisualStudio\Loops\CatalanNumbers_08\obj\Debug\CatalanNumbers_08.csprojResolveAssemblyReference.cache
+D:\Soft\VisualStudio\Loops\CatalanNumbers_08\obj\Debug\CatalanNumbers_08.exe
+D:\Soft\VisualStudio\Loops\CatalanNumbers_08\obj\Debug\CatalanNumbers_08.pdb

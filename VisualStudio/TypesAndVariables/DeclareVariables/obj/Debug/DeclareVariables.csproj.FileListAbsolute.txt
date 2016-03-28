@@ -1,0 +1,6 @@
+D:\Soft\VisualStudio\TypesAndVariables\DeclareVariables\bin\Debug\DeclareVariables.exe.config
+D:\Soft\VisualStudio\TypesAndVariables\DeclareVariables\bin\Debug\DeclareVariables.exe
+D:\Soft\VisualStudio\TypesAndVariables\DeclareVariables\bin\Debug\DeclareVariables.pdb
+D:\Soft\VisualStudio\TypesAndVariables\DeclareVariables\obj\Debug\DeclareVariables.csprojResolveAssemblyReference.cache
+D:\Soft\VisualStudio\TypesAndVariables\DeclareVariables\obj\Debug\DeclareVariables.exe
+D:\Soft\VisualStudio\TypesAndVariables\DeclareVariables\obj\Debug\DeclareVariables.pdb

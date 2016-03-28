@@ -1,0 +1,6 @@
+D:\Soft\VisualStudio\OperatorsExpressionsAndStatements\PointCircle_07\bin\Debug\PointCircle_07.exe.config
+D:\Soft\VisualStudio\OperatorsExpressionsAndStatements\PointCircle_07\bin\Debug\PointCircle_07.exe
+D:\Soft\VisualStudio\OperatorsExpressionsAndStatements\PointCircle_07\bin\Debug\PointCircle_07.pdb
+D:\Soft\VisualStudio\OperatorsExpressionsAndStatements\PointCircle_07\obj\Debug\PointCircle_07.csprojResolveAssemblyReference.cache
+D:\Soft\VisualStudio\OperatorsExpressionsAndStatements\PointCircle_07\obj\Debug\PointCircle_07.exe
+D:\Soft\VisualStudio\OperatorsExpressionsAndStatements\PointCircle_07\obj\Debug\PointCircle_07.pdb

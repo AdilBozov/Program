@@ -1,0 +1,6 @@
+D:\Soft\Web Fundamentals HTML and CSS\Practical Exam (Group 2)\Exam 1\Movies\bin\Movies.dll.config
+D:\Soft\Web Fundamentals HTML and CSS\Practical Exam (Group 2)\Exam 1\Movies\bin\Movies.dll
+D:\Soft\Web Fundamentals HTML and CSS\Practical Exam (Group 2)\Exam 1\Movies\bin\Movies.pdb
+D:\Soft\Web Fundamentals HTML and CSS\Practical Exam (Group 2)\Exam 1\Movies\obj\Debug\Movies.csprojResolveAssemblyReference.cache
+D:\Soft\Web Fundamentals HTML and CSS\Practical Exam (Group 2)\Exam 1\Movies\obj\Debug\Movies.dll
+D:\Soft\Web Fundamentals HTML and CSS\Practical Exam (Group 2)\Exam 1\Movies\obj\Debug\Movies.pdb

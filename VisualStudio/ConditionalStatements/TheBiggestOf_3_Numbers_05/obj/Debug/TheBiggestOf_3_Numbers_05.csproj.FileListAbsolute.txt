@@ -1,0 +1,5 @@
+D:\Soft\VisualStudio\ConditionalStatements\TheBiggestOf_3_Numbers_05\bin\Debug\TheBiggestOf_3_Numbers_05.exe.config
+D:\Soft\VisualStudio\ConditionalStatements\TheBiggestOf_3_Numbers_05\bin\Debug\TheBiggestOf_3_Numbers_05.exe
+D:\Soft\VisualStudio\ConditionalStatements\TheBiggestOf_3_Numbers_05\bin\Debug\TheBiggestOf_3_Numbers_05.pdb
+D:\Soft\VisualStudio\ConditionalStatements\TheBiggestOf_3_Numbers_05\obj\Debug\TheBiggestOf_3_Numbers_05.exe
+D:\Soft\VisualStudio\ConditionalStatements\TheBiggestOf_3_Numbers_05\obj\Debug\TheBiggestOf_3_Numbers_05.pdb

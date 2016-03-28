@@ -1,0 +1,5 @@
+D:\Soft\VisualStudio\ConsoleInputOutput\NumbersFrom_1_To_n_08\bin\Debug\NumbersFrom_1_To_n_08.exe.config
+D:\Soft\VisualStudio\ConsoleInputOutput\NumbersFrom_1_To_n_08\bin\Debug\NumbersFrom_1_To_n_08.exe
+D:\Soft\VisualStudio\ConsoleInputOutput\NumbersFrom_1_To_n_08\bin\Debug\NumbersFrom_1_To_n_08.pdb
+D:\Soft\VisualStudio\ConsoleInputOutput\NumbersFrom_1_To_n_08\obj\Debug\NumbersFrom_1_To_n_08.exe
+D:\Soft\VisualStudio\ConsoleInputOutput\NumbersFrom_1_To_n_08\obj\Debug\NumbersFrom_1_To_n_08.pdb

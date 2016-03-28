@@ -1,0 +1,83 @@
+﻿body {
+    background-color:#ffffff;
+    font-family: Tahoma sans-serif;
+    width:700px;
+    margin:1px auto;
+    font-size:16px;
+}
+div #pic1 {
+    background-image:url('SilenceOfTheLambs.jpg');
+    background-repeat:no-repeat;
+    width: 200px;
+    height: 225px;
+    background-position:center;
+    
+}
+div #pic2 {
+    background-image:url('Hannibal.jpg');
+    background-repeat:no-repeat;
+    width: 200px;
+    height: 225px;
+    background-position:center;
+}
+div #pic3 {
+    background-image:url('RedDragon.jpg');
+    background-repeat:no-repeat;
+    width: 200px;
+    height: 225px;
+    background-position:center;
+}
+div #fonts {
+    width: 200px;
+    height: 225px;
+    float:left;
+    border:1px solid #000000;
+    margin:10px;
+}
+div #fonts:hover {
+    background-color:red;
+    cursor:pointer;
+}
+div #nameMuvie {
+    float:left;
+    margin-left:10px;
+    margin-top:-8px;
+    width:212px;
+}
+div #nameMuvie2 {
+    float:left;
+    margin-left:10px;
+    margin-top:-8px;
+    width:212px;
+    padding-bottom:18px;
+}
+div #genre {
+    float:left;
+    width:20px;
+    margin:10px;
+}
+span{
+    display:block;
+    float:left;
+    width:178px;
+    margin-left:5px;
+    margin-top:10px;
+    font-size:12px;
+    color:#888b98;
+}
+div #genre a {
+    border:1px solid #000000;
+    border-radius:2px;
+    padding:5px;
+    padding-bottom:0;
+    padding-top:0;
+}
+div #genre:hover{
+    background-color:red;
+}
+div #nameMuvie a:hover{
+    color:red;
+}
+div #nameMuvie2 a:hover{
+    color:red;
+}

@@ -1,0 +1,6 @@
+D:\Soft\VisualStudio\OperatorsExpressionsAndStatements\GravitationOnTheMoon_02\bin\Debug\GravitationOnTheMoon_02.exe.config
+D:\Soft\VisualStudio\OperatorsExpressionsAndStatements\GravitationOnTheMoon_02\bin\Debug\GravitationOnTheMoon_02.exe
+D:\Soft\VisualStudio\OperatorsExpressionsAndStatements\GravitationOnTheMoon_02\bin\Debug\GravitationOnTheMoon_02.pdb
+D:\Soft\VisualStudio\OperatorsExpressionsAndStatements\GravitationOnTheMoon_02\obj\Debug\GravitationOnTheMoon_02.csprojResolveAssemblyReference.cache
+D:\Soft\VisualStudio\OperatorsExpressionsAndStatements\GravitationOnTheMoon_02\obj\Debug\GravitationOnTheMoon_02.exe
+D:\Soft\VisualStudio\OperatorsExpressionsAndStatements\GravitationOnTheMoon_02\obj\Debug\GravitationOnTheMoon_02.pdb

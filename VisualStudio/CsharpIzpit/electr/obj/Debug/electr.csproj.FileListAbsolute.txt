@@ -1,0 +1,6 @@
+D:\Soft\VisualStudio\CsharpIzpit\electr\bin\Debug\electr.exe.config
+D:\Soft\VisualStudio\CsharpIzpit\electr\bin\Debug\electr.exe
+D:\Soft\VisualStudio\CsharpIzpit\electr\bin\Debug\electr.pdb
+D:\Soft\VisualStudio\CsharpIzpit\electr\obj\Debug\electr.csprojResolveAssemblyReference.cache
+D:\Soft\VisualStudio\CsharpIzpit\electr\obj\Debug\electr.exe
+D:\Soft\VisualStudio\CsharpIzpit\electr\obj\Debug\electr.pdb

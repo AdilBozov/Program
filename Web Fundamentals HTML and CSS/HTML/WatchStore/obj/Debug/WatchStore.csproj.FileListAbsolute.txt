@@ -1,0 +1,6 @@
+D:\Soft\JavaScript\izpit\HTML\WatchStore\bin\WatchStore.dll.config
+D:\Soft\JavaScript\izpit\HTML\WatchStore\bin\WatchStore.dll
+D:\Soft\JavaScript\izpit\HTML\WatchStore\bin\WatchStore.pdb
+D:\Soft\JavaScript\izpit\HTML\WatchStore\obj\Debug\WatchStore.csprojResolveAssemblyReference.cache
+D:\Soft\JavaScript\izpit\HTML\WatchStore\obj\Debug\WatchStore.dll
+D:\Soft\JavaScript\izpit\HTML\WatchStore\obj\Debug\WatchStore.pdb

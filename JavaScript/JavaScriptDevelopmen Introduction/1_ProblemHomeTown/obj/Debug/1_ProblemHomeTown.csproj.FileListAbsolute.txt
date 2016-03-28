@@ -1,0 +1,6 @@
+D:\Soft\JavaScript\JavaScriptDevelopmen Introduction\1_ProblemHomeTown\bin\1_ProblemHomeTown.dll.config
+D:\Soft\JavaScript\JavaScriptDevelopmen Introduction\1_ProblemHomeTown\bin\1_ProblemHomeTown.dll
+D:\Soft\JavaScript\JavaScriptDevelopmen Introduction\1_ProblemHomeTown\bin\1_ProblemHomeTown.pdb
+D:\Soft\JavaScript\JavaScriptDevelopmen Introduction\1_ProblemHomeTown\obj\Debug\1_ProblemHomeTown.csprojResolveAssemblyReference.cache
+D:\Soft\JavaScript\JavaScriptDevelopmen Introduction\1_ProblemHomeTown\obj\Debug\1_ProblemHomeTown.dll
+D:\Soft\JavaScript\JavaScriptDevelopmen Introduction\1_ProblemHomeTown\obj\Debug\1_ProblemHomeTown.pdb

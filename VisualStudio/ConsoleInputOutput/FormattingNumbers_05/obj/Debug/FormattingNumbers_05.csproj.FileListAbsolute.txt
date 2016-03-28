@@ -1,0 +1,6 @@
+D:\Soft\VisualStudio\ConsoleInputOutput\FormattingNumbers_05\bin\Debug\FormattingNumbers_05.exe.config
+D:\Soft\VisualStudio\ConsoleInputOutput\FormattingNumbers_05\bin\Debug\FormattingNumbers_05.exe
+D:\Soft\VisualStudio\ConsoleInputOutput\FormattingNumbers_05\bin\Debug\FormattingNumbers_05.pdb
+D:\Soft\VisualStudio\ConsoleInputOutput\FormattingNumbers_05\obj\Debug\FormattingNumbers_05.csprojResolveAssemblyReference.cache
+D:\Soft\VisualStudio\ConsoleInputOutput\FormattingNumbers_05\obj\Debug\FormattingNumbers_05.exe
+D:\Soft\VisualStudio\ConsoleInputOutput\FormattingNumbers_05\obj\Debug\FormattingNumbers_05.pdb

@@ -1,0 +1,5 @@
+D:\Soft\VisualStudio\TypesAndVariables\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe.config
+D:\Soft\VisualStudio\TypesAndVariables\UnicodeCharacter\bin\Debug\UnicodeCharacter.exe
+D:\Soft\VisualStudio\TypesAndVariables\UnicodeCharacter\bin\Debug\UnicodeCharacter.pdb
+D:\Soft\VisualStudio\TypesAndVariables\UnicodeCharacter\obj\Debug\UnicodeCharacter.exe
+D:\Soft\VisualStudio\TypesAndVariables\UnicodeCharacter\obj\Debug\UnicodeCharacter.pdb

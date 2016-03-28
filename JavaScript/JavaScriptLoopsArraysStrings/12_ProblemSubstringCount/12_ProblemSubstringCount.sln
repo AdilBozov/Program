@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.30723.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9092AA53-FB77-4645-B42D-1CCCA6BD08BD}") = "12_ProblemSubstringCount", "12_ProblemSubstringCount.njsproj", "{F030B6C3-6A01-4C51-AB00-9C8C648B6A44}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F030B6C3-6A01-4C51-AB00-9C8C648B6A44}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F030B6C3-6A01-4C51-AB00-9C8C648B6A44}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F030B6C3-6A01-4C51-AB00-9C8C648B6A44}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F030B6C3-6A01-4C51-AB00-9C8C648B6A44}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

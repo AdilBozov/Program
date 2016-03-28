@@ -1,0 +1,6 @@
+D:\Soft\VisualStudio\Loops\DecimalBoBinaryNumber_14\bin\Debug\DecimalBoBinaryNumber_14.exe.config
+D:\Soft\VisualStudio\Loops\DecimalBoBinaryNumber_14\bin\Debug\DecimalBoBinaryNumber_14.exe
+D:\Soft\VisualStudio\Loops\DecimalBoBinaryNumber_14\bin\Debug\DecimalBoBinaryNumber_14.pdb
+D:\Soft\VisualStudio\Loops\DecimalBoBinaryNumber_14\obj\Debug\DecimalBoBinaryNumber_14.csprojResolveAssemblyReference.cache
+D:\Soft\VisualStudio\Loops\DecimalBoBinaryNumber_14\obj\Debug\DecimalBoBinaryNumber_14.exe
+D:\Soft\VisualStudio\Loops\DecimalBoBinaryNumber_14\obj\Debug\DecimalBoBinaryNumber_14.pdb

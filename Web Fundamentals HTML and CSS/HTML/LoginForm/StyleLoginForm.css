@@ -1,0 +1,163 @@
+﻿body, div, header, section,article, h1, h2, input {
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+body {
+    font-family: Tahoma, Helvetica, sans-serif;
+    background-image: url('img/backgroundImage.jpg');
+    background-size:cover;
+}
+
+h1{
+    text-align:center;
+    width: 95%;
+    margin-left: 30px;
+    color:white;
+    margin-top:30px;
+    border-bottom:1px solid #d2b48d ;
+    font-size:45px;
+    font-weight:normal;
+}
+
+article{
+    width:530px;
+    height:350px;
+    float:left;
+    margin-left: 55px;
+    background: rgba(124,46,44,0.8);
+    border-radius:15px;
+    margin-top: 25px;
+}
+
+h2{
+    color:#ccad82;
+    margin:15px;
+    font-weight:normal;
+}
+section{
+    text-align:center;
+}
+
+input{
+    float: left;
+    width: 440px;
+    height: 55px;
+    margin-top: 3px;
+    margin-left: 15px;
+    border-radius: 0px 15px 15px 0px;
+    padding-left:15px;
+}
+input:hover {
+    border:2px solid #6b96c5;
+}
+
+
+#text{
+    background: url('img/username-icon.png') #5c3727 no-repeat;
+    background-size: 35px 30px;
+    background-position: 10px 11px;
+    padding-left: 45px;
+    border: 12px;
+    height: 58px;
+    width: 59px;
+    margin-bottom: 10px;
+    margin-right: 0px;
+    margin-left: 15px;
+    border-radius: 15px 0px 0px 15px;
+}
+
+ #text:hover{
+    background: url('img/username-icon.png') #63260b no-repeat;
+    background-size: 35px 30px;
+    background-position: 10px 11px;
+    padding-left: 45px;
+    border: 12px;
+    height: 58px;
+    width: 59px;
+    margin-bottom: 10px;
+    margin-right: 0px;
+    margin-left: 15px;
+    border-radius: 15px 0px 0px 15px;
+}
+
+#password{
+    background: url('img/password-icon.png') #5c3727 no-repeat;
+    background-size: 35px 30px;
+    background-position: 10px 11px;
+    padding-left: 45px;
+    border: 12px;
+    height: 58px;
+    width: 59px;
+    margin-bottom: 10px;
+    margin-right: 0px;
+    margin-left: 15px;
+    border-radius: 15px 0px 0px 15px;
+}
+#password:hover{
+    background: url('img/password-icon.png') #63260b no-repeat;
+    background-size: 35px 30px;
+    background-position: 10px 11px;
+    padding-left: 45px;
+    border: 12px;
+    height: 58px;
+    width: 59px;
+    margin-bottom: 10px;
+    margin-right: 0px;
+    margin-left: 15px;
+    border-radius: 15px 0px 0px 15px;
+}
+
+input[type=submit]{
+    color: #e8b984;
+    font-size: 25px;
+    float: left;
+    width: 500px;
+    height: 55px;
+    margin-top: 4px;
+    margin-left: 15px;
+    border-radius: 15px;
+}
+
+
+
+#options{
+    margin-top:15px;
+}
+
+    #send {
+       background: url('img/plane-icon.png') rgba(47,213,128,0.6) no-repeat;
+       background-size: 40px 30px;
+       background-position: 190px 11px;
+       padding-left: 12px;
+       border:0px;
+    }
+    
+    #send:hover{
+       background: url('img/plane-icon.png') #4a5a08 no-repeat;
+       background-size: 40px 30px;
+       background-position: 190px 11px;
+       padding-left: 12px;
+       cursor:pointer;
+    }
+
+#options {
+    background: url('img/cogwheel-icon.png') rgba(47,213,128,0.6) no-repeat;
+    background-size: 30px 30px;
+    background-position: 180px 11px;
+    padding-left: 13px;
+    border: 0px;
+}
+
+#options:hover {
+    background: url('img/cogwheel-icon.png') #4a5a08 no-repeat;
+    background-size: 30px 30px;
+    background-position: 180px 11px;
+    padding-left: 13px;
+    border: 0px;
+}
+
+
+
+

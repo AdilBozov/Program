@@ -1,0 +1,88 @@
+﻿body, header, h1, nav, main, div, form, p, label, input, footer, html {
+    margin: 0 auto;
+    padding:0;
+    box-sizing:border-box;
+}
+body{
+    color:#010101;
+}
+
+body header{
+    padding-top: 25px;
+    background: #ffffff;
+    text-align:center;
+}
+
+body header h1{
+    font-family:Buxton Sketch;
+    font-size:75px;
+    border:2px dotted #010101;
+    color:#010101;
+}
+
+    body header nav ul li {
+        display: inline-block;
+        background: #010101;
+        margin: 20px;
+        height: 40px;
+        width: 90px;
+    }
+
+    body main form p{
+       text-align:center;
+       background:#010101;
+       color:white;
+       padding:15px;
+    }
+
+    body footer p{
+        display:inline-block;
+        float:left;
+        color:white;
+        margin-right:590px;
+        margin-top:20px;
+        margin-left:20px;
+        text-align:center;
+    }
+
+    body footer div > p{
+        margin-bottom:50px;
+    }
+    
+    body main form label, body main form input{
+        display:inline-block;
+        float:left;
+        margin-left:555px;
+        
+    }
+
+    body main form label{
+        padding-top:10px;
+        color:white;
+    }
+
+    #button{
+        margin-top:15px;
+        height:30px;
+        width:160px;
+        color:black;
+    }
+
+    body header nav ul li a{
+        display:inline-block;
+        text-decoration:none;
+        padding-top:10px;
+        color:white;
+    }
+
+   footer{
+        text-align:right;
+        background:#010101;
+    }
+
+    img{
+        height:500px;
+        width:500px;
+        margin-bottom:10px;
+        border:0;
+    }

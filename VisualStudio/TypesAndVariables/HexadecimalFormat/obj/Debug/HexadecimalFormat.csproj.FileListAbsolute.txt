@@ -1,0 +1,5 @@
+D:\Soft\VisualStudio\TypesAndVariables\HexadecimalFormat\bin\Debug\HexadecimalFormat.exe.config
+D:\Soft\VisualStudio\TypesAndVariables\HexadecimalFormat\bin\Debug\HexadecimalFormat.exe
+D:\Soft\VisualStudio\TypesAndVariables\HexadecimalFormat\bin\Debug\HexadecimalFormat.pdb
+D:\Soft\VisualStudio\TypesAndVariables\HexadecimalFormat\obj\Debug\HexadecimalFormat.exe
+D:\Soft\VisualStudio\TypesAndVariables\HexadecimalFormat\obj\Debug\HexadecimalFormat.pdb

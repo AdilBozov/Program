@@ -1,0 +1,5 @@
+D:\Soft\VisualStudio\TypesAndVariables\FloatingPointTypes\bin\Debug\FloatingPointTypes.exe.config
+D:\Soft\VisualStudio\TypesAndVariables\FloatingPointTypes\bin\Debug\FloatingPointTypes.exe
+D:\Soft\VisualStudio\TypesAndVariables\FloatingPointTypes\bin\Debug\FloatingPointTypes.pdb
+D:\Soft\VisualStudio\TypesAndVariables\FloatingPointTypes\obj\Debug\FloatingPointTypes.exe
+D:\Soft\VisualStudio\TypesAndVariables\FloatingPointTypes\obj\Debug\FloatingPointTypes.pdb

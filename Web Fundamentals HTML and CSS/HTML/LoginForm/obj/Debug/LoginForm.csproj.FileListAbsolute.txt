@@ -1,0 +1,6 @@
+D:\Soft\JavaScript\izpit\HTML\LoginForm\bin\LoginForm.dll.config
+D:\Soft\JavaScript\izpit\HTML\LoginForm\bin\LoginForm.dll
+D:\Soft\JavaScript\izpit\HTML\LoginForm\bin\LoginForm.pdb
+D:\Soft\JavaScript\izpit\HTML\LoginForm\obj\Debug\LoginForm.csprojResolveAssemblyReference.cache
+D:\Soft\JavaScript\izpit\HTML\LoginForm\obj\Debug\LoginForm.dll
+D:\Soft\JavaScript\izpit\HTML\LoginForm\obj\Debug\LoginForm.pdb

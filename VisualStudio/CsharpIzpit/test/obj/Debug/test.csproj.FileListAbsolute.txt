@@ -1,0 +1,5 @@
+D:\Soft\VisualStudio\CsharpIzpit\test\bin\Debug\test.exe.config
+D:\Soft\VisualStudio\CsharpIzpit\test\bin\Debug\test.exe
+D:\Soft\VisualStudio\CsharpIzpit\test\bin\Debug\test.pdb
+D:\Soft\VisualStudio\CsharpIzpit\test\obj\Debug\test.exe
+D:\Soft\VisualStudio\CsharpIzpit\test\obj\Debug\test.pdb

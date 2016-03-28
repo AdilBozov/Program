@@ -1,0 +1,6 @@
+D:\Soft\VisualStudio\CsharpIzpit\HouseWithAWindow\bin\Debug\HouseWithAWindow.exe.config
+D:\Soft\VisualStudio\CsharpIzpit\HouseWithAWindow\bin\Debug\HouseWithAWindow.exe
+D:\Soft\VisualStudio\CsharpIzpit\HouseWithAWindow\bin\Debug\HouseWithAWindow.pdb
+D:\Soft\VisualStudio\CsharpIzpit\HouseWithAWindow\obj\Debug\HouseWithAWindow.csprojResolveAssemblyReference.cache
+D:\Soft\VisualStudio\CsharpIzpit\HouseWithAWindow\obj\Debug\HouseWithAWindow.exe
+D:\Soft\VisualStudio\CsharpIzpit\HouseWithAWindow\obj\Debug\HouseWithAWindow.pdb

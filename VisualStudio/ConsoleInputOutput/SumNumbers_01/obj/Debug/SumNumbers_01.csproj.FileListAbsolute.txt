@@ -1,0 +1,6 @@
+D:\Soft\VisualStudio\ConsoleInputOutput\SumNumbers_01\bin\Debug\SumNumbers_01.exe.config
+D:\Soft\VisualStudio\ConsoleInputOutput\SumNumbers_01\bin\Debug\SumNumbers_01.exe
+D:\Soft\VisualStudio\ConsoleInputOutput\SumNumbers_01\bin\Debug\SumNumbers_01.pdb
+D:\Soft\VisualStudio\ConsoleInputOutput\SumNumbers_01\obj\Debug\SumNumbers_01.csprojResolveAssemblyReference.cache
+D:\Soft\VisualStudio\ConsoleInputOutput\SumNumbers_01\obj\Debug\SumNumbers_01.exe
+D:\Soft\VisualStudio\ConsoleInputOutput\SumNumbers_01\obj\Debug\SumNumbers_01.pdb

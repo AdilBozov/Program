@@ -1,0 +1,10 @@
+{
+  "name": "_3_ProblemCheckIfNumberIsEven",
+  "version": "0.0.0",
+  "description": "3_ProblemCheckIfNumberIsEven",
+  "main": "app.js",
+  "author": {
+    "name": "Adil Bozov",
+    "email": ""
+  }
+}

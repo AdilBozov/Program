@@ -1,0 +1,6 @@
+D:\Soft\VisualStudio\OperatorsExpressionsAndStatements\OddOrEvenIntegers_01\bin\Debug\OddOrEvenIntegers_01.exe.config
+D:\Soft\VisualStudio\OperatorsExpressionsAndStatements\OddOrEvenIntegers_01\bin\Debug\OddOrEvenIntegers_01.exe
+D:\Soft\VisualStudio\OperatorsExpressionsAndStatements\OddOrEvenIntegers_01\bin\Debug\OddOrEvenIntegers_01.pdb
+D:\Soft\VisualStudio\OperatorsExpressionsAndStatements\OddOrEvenIntegers_01\obj\Debug\OddOrEvenIntegers_01.csprojResolveAssemblyReference.cache
+D:\Soft\VisualStudio\OperatorsExpressionsAndStatements\OddOrEvenIntegers_01\obj\Debug\OddOrEvenIntegers_01.exe
+D:\Soft\VisualStudio\OperatorsExpressionsAndStatements\OddOrEvenIntegers_01\obj\Debug\OddOrEvenIntegers_01.pdb

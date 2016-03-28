@@ -1,0 +1,6 @@
+D:\Soft\JavaScript\JavaScriptDevelopmen Introduction\4_ProblemCircleArea\bin\4_ProblemCircleArea.dll.config
+D:\Soft\JavaScript\JavaScriptDevelopmen Introduction\4_ProblemCircleArea\bin\4_ProblemCircleArea.dll
+D:\Soft\JavaScript\JavaScriptDevelopmen Introduction\4_ProblemCircleArea\bin\4_ProblemCircleArea.pdb
+D:\Soft\JavaScript\JavaScriptDevelopmen Introduction\4_ProblemCircleArea\obj\Debug\4_ProblemCircleArea.csprojResolveAssemblyReference.cache
+D:\Soft\JavaScript\JavaScriptDevelopmen Introduction\4_ProblemCircleArea\obj\Debug\4_ProblemCircleArea.dll
+D:\Soft\JavaScript\JavaScriptDevelopmen Introduction\4_ProblemCircleArea\obj\Debug\4_ProblemCircleArea.pdb

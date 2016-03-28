@@ -1,0 +1,13 @@
+﻿body {
+    font-family:Tahoma;
+    font-style:30px;
+}
+table, td {
+    border:1px solid black;
+}
+table {
+    margin:3px;
+}
+img {
+    margin: 6px;
+}

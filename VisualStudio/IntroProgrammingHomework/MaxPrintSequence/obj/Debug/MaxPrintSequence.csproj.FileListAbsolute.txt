@@ -1,0 +1,5 @@
+D:\Soft\VisualStudio\IntroProgrammingHomework\MaxPrintSequence\bin\Debug\MaxPrintSequence.exe.config
+D:\Soft\VisualStudio\IntroProgrammingHomework\MaxPrintSequence\bin\Debug\MaxPrintSequence.exe
+D:\Soft\VisualStudio\IntroProgrammingHomework\MaxPrintSequence\bin\Debug\MaxPrintSequence.pdb
+D:\Soft\VisualStudio\IntroProgrammingHomework\MaxPrintSequence\obj\Debug\MaxPrintSequence.exe
+D:\Soft\VisualStudio\IntroProgrammingHomework\MaxPrintSequence\obj\Debug\MaxPrintSequence.pdb

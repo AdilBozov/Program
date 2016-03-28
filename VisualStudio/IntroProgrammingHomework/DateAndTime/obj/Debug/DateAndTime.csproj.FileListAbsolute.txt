@@ -1,0 +1,6 @@
+D:\Soft\VisualStudio\IntroProgrammingHomework\DateAndTime\bin\Debug\DateAndTime.exe.config
+D:\Soft\VisualStudio\IntroProgrammingHomework\DateAndTime\bin\Debug\DateAndTime.exe
+D:\Soft\VisualStudio\IntroProgrammingHomework\DateAndTime\bin\Debug\DateAndTime.pdb
+D:\Soft\VisualStudio\IntroProgrammingHomework\DateAndTime\obj\Debug\DateAndTime.csprojResolveAssemblyReference.cache
+D:\Soft\VisualStudio\IntroProgrammingHomework\DateAndTime\obj\Debug\DateAndTime.exe
+D:\Soft\VisualStudio\IntroProgrammingHomework\DateAndTime\obj\Debug\DateAndTime.pdb

@@ -1,0 +1,6 @@
+D:\Soft\Web Fundamentals HTML and CSS\HTML5 Tables\Problem-5-Life-In-SoftUni\Life-In-SoftUni\bin\Life-In-SoftUni.dll.config
+D:\Soft\Web Fundamentals HTML and CSS\HTML5 Tables\Problem-5-Life-In-SoftUni\Life-In-SoftUni\bin\Life-In-SoftUni.dll
+D:\Soft\Web Fundamentals HTML and CSS\HTML5 Tables\Problem-5-Life-In-SoftUni\Life-In-SoftUni\bin\Life-In-SoftUni.pdb
+D:\Soft\Web Fundamentals HTML and CSS\HTML5 Tables\Problem-5-Life-In-SoftUni\Life-In-SoftUni\obj\Debug\Life-In-SoftUni.csprojResolveAssemblyReference.cache
+D:\Soft\Web Fundamentals HTML and CSS\HTML5 Tables\Problem-5-Life-In-SoftUni\Life-In-SoftUni\obj\Debug\Life-In-SoftUni.dll
+D:\Soft\Web Fundamentals HTML and CSS\HTML5 Tables\Problem-5-Life-In-SoftUni\Life-In-SoftUni\obj\Debug\Life-In-SoftUni.pdb

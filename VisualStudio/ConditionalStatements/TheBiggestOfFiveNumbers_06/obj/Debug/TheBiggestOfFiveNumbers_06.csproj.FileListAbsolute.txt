@@ -1,0 +1,5 @@
+D:\Soft\VisualStudio\ConditionalStatements\TheBiggestOfFiveNumbers_06\bin\Debug\TheBiggestOfFiveNumbers_06.exe.config
+D:\Soft\VisualStudio\ConditionalStatements\TheBiggestOfFiveNumbers_06\bin\Debug\TheBiggestOfFiveNumbers_06.exe
+D:\Soft\VisualStudio\ConditionalStatements\TheBiggestOfFiveNumbers_06\bin\Debug\TheBiggestOfFiveNumbers_06.pdb
+D:\Soft\VisualStudio\ConditionalStatements\TheBiggestOfFiveNumbers_06\obj\Debug\TheBiggestOfFiveNumbers_06.exe
+D:\Soft\VisualStudio\ConditionalStatements\TheBiggestOfFiveNumbers_06\obj\Debug\TheBiggestOfFiveNumbers_06.pdb

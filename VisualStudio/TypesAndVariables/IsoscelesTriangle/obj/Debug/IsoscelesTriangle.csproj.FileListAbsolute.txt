@@ -1,0 +1,6 @@
+D:\Soft\VisualStudio\TypesAndVariables\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe.config
+D:\Soft\VisualStudio\TypesAndVariables\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.exe
+D:\Soft\VisualStudio\TypesAndVariables\IsoscelesTriangle\bin\Debug\IsoscelesTriangle.pdb
+D:\Soft\VisualStudio\TypesAndVariables\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.csprojResolveAssemblyReference.cache
+D:\Soft\VisualStudio\TypesAndVariables\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.exe
+D:\Soft\VisualStudio\TypesAndVariables\IsoscelesTriangle\obj\Debug\IsoscelesTriangle.pdb

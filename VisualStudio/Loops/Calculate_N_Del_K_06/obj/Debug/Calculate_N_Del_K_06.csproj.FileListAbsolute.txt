@@ -1,0 +1,6 @@
+D:\Soft\VisualStudio\Loops\Calculate_N_Del_K_06\bin\Debug\Calculate_N_Del_K_06.exe.config
+D:\Soft\VisualStudio\Loops\Calculate_N_Del_K_06\bin\Debug\Calculate_N_Del_K_06.exe
+D:\Soft\VisualStudio\Loops\Calculate_N_Del_K_06\bin\Debug\Calculate_N_Del_K_06.pdb
+D:\Soft\VisualStudio\Loops\Calculate_N_Del_K_06\obj\Debug\Calculate_N_Del_K_06.csprojResolveAssemblyReference.cache
+D:\Soft\VisualStudio\Loops\Calculate_N_Del_K_06\obj\Debug\Calculate_N_Del_K_06.exe
+D:\Soft\VisualStudio\Loops\Calculate_N_Del_K_06\obj\Debug\Calculate_N_Del_K_06.pdb

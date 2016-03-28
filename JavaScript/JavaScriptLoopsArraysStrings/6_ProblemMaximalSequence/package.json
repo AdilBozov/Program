@@ -1,0 +1,10 @@
+{
+  "name": "_6_ProblemMaximalSequence",
+  "version": "0.0.0",
+  "description": "6_ProblemMaximalSequence",
+  "main": "app.js",
+  "author": {
+    "name": "Adil Bozov",
+    "email": ""
+  }
+}

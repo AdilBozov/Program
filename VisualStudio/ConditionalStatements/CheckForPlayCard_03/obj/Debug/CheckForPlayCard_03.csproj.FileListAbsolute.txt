@@ -1,0 +1,6 @@
+D:\Soft\VisualStudio\ConditionalStatements\CheckForPlayCard_03\bin\Debug\CheckForPlayCard_03.exe.config
+D:\Soft\VisualStudio\ConditionalStatements\CheckForPlayCard_03\bin\Debug\CheckForPlayCard_03.exe
+D:\Soft\VisualStudio\ConditionalStatements\CheckForPlayCard_03\bin\Debug\CheckForPlayCard_03.pdb
+D:\Soft\VisualStudio\ConditionalStatements\CheckForPlayCard_03\obj\Debug\CheckForPlayCard_03.csprojResolveAssemblyReference.cache
+D:\Soft\VisualStudio\ConditionalStatements\CheckForPlayCard_03\obj\Debug\CheckForPlayCard_03.exe
+D:\Soft\VisualStudio\ConditionalStatements\CheckForPlayCard_03\obj\Debug\CheckForPlayCard_03.pdb

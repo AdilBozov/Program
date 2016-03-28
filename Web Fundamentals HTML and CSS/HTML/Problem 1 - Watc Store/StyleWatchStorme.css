@@ -1,0 +1,98 @@
+﻿body,div, h1, h2, h3 p {
+    margin:0;
+    padding:0;
+    box-sizing: border-box;
+}
+
+@font-face {
+    font-family: 'Lemon-Regular';
+    src: url('font/Lemon-Regular.ttf') format('truetype');
+}
+
+#wrapper{
+    border:1px solid #602d75;
+    font-family:Lemon-Regular, Arial;
+    text-align:center;
+    width: 1000px;
+    background-color:#602d75;
+    height:620px;
+}
+
+#font{
+    margin:45px;
+    width:900px;
+    height:540px;
+    background-color: #ffae32;
+    border-radius:20px;
+}
+
+h1{
+    font-weight:bold;
+    padding-top:10px;
+    font-size:24px;
+}
+
+#img{
+    border-radius:100px;
+   
+}
+#section {
+    width:220px;
+    height:455px;
+    margin-left:55px;
+    margin-top:30px;
+    background-color:#5f2056;
+    border-radius:30px 5px 30px 5px;
+    
+}
+
+h2{
+    color:white;
+    padding-top:10px;
+    font-size:22px;
+}
+
+h3{
+    color:#ffc350;
+}
+
+img {
+    width: 200px;
+    height:200px;
+    border-radius:100px;
+    border:5px solid #806671;
+}
+
+img:hover {
+    border:5px solid #fa4f00;
+}
+
+p {
+    font-size:15px;
+    color:white;
+    margin: 3px;
+    display: block;
+    float: left;
+}
+#submit{
+    text-decoration:none;
+    color:#9e4aff;
+    background-color:#ffffff;
+    padding:5px;
+    border-radius:50px;
+    border-right:2px solid #898989;
+    border-bottom:2px solid #898989;
+    display:block;
+    width:190px;
+    margin-right: 13px;
+    margin-top: 10px;
+    float: right;
+}
+
+#submit:hover{
+    color:black;
+}
+
+#section{
+    float:left;
+}

@@ -1,0 +1,1 @@
+D:\Soft\VisualStudio\TypesAndVariables\BankAccountData\bin\Debug\BankAccountData.exe.config

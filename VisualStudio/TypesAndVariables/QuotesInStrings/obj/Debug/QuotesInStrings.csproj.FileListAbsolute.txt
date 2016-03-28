@@ -1,0 +1,5 @@
+D:\Soft\VisualStudio\TypesAndVariables\QuotesInStrings\bin\Debug\QuotesInStrings.exe.config
+D:\Soft\VisualStudio\TypesAndVariables\QuotesInStrings\bin\Debug\QuotesInStrings.exe
+D:\Soft\VisualStudio\TypesAndVariables\QuotesInStrings\bin\Debug\QuotesInStrings.pdb
+D:\Soft\VisualStudio\TypesAndVariables\QuotesInStrings\obj\Debug\QuotesInStrings.exe
+D:\Soft\VisualStudio\TypesAndVariables\QuotesInStrings\obj\Debug\QuotesInStrings.pdb

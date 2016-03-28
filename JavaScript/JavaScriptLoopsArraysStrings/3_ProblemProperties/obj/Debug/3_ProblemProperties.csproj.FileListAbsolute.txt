@@ -1,0 +1,6 @@
+D:\Soft\JavaScript\JavaScriptLoopsArraysStrings\3_ProblemProperties\bin\3_ProblemProperties.dll.config
+D:\Soft\JavaScript\JavaScriptLoopsArraysStrings\3_ProblemProperties\bin\3_ProblemProperties.dll
+D:\Soft\JavaScript\JavaScriptLoopsArraysStrings\3_ProblemProperties\bin\3_ProblemProperties.pdb
+D:\Soft\JavaScript\JavaScriptLoopsArraysStrings\3_ProblemProperties\obj\Debug\3_ProblemProperties.csprojResolveAssemblyReference.cache
+D:\Soft\JavaScript\JavaScriptLoopsArraysStrings\3_ProblemProperties\obj\Debug\3_ProblemProperties.dll
+D:\Soft\JavaScript\JavaScriptLoopsArraysStrings\3_ProblemProperties\obj\Debug\3_ProblemProperties.pdb

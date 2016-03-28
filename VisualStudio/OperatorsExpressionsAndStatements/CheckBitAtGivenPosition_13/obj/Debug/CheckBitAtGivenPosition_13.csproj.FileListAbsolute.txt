@@ -1,0 +1,5 @@
+D:\Soft\VisualStudio\OperatorsExpressionsAndStatements\CheckBitAtGivenPosition_13\bin\Debug\CheckBitAtGivenPosition_13.exe.config
+D:\Soft\VisualStudio\OperatorsExpressionsAndStatements\CheckBitAtGivenPosition_13\bin\Debug\CheckBitAtGivenPosition_13.exe
+D:\Soft\VisualStudio\OperatorsExpressionsAndStatements\CheckBitAtGivenPosition_13\bin\Debug\CheckBitAtGivenPosition_13.pdb
+D:\Soft\VisualStudio\OperatorsExpressionsAndStatements\CheckBitAtGivenPosition_13\obj\Debug\CheckBitAtGivenPosition_13.exe
+D:\Soft\VisualStudio\OperatorsExpressionsAndStatements\CheckBitAtGivenPosition_13\obj\Debug\CheckBitAtGivenPosition_13.pdb

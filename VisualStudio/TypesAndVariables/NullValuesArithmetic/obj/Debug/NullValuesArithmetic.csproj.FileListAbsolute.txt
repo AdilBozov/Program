@@ -1,0 +1,6 @@
+D:\Soft\VisualStudio\TypesAndVariables\NullValuesArithmetic\bin\Debug\NullValuesArithmetic.exe.config
+D:\Soft\VisualStudio\TypesAndVariables\NullValuesArithmetic\bin\Debug\NullValuesArithmetic.exe
+D:\Soft\VisualStudio\TypesAndVariables\NullValuesArithmetic\bin\Debug\NullValuesArithmetic.pdb
+D:\Soft\VisualStudio\TypesAndVariables\NullValuesArithmetic\obj\Debug\NullValuesArithmetic.csprojResolveAssemblyReference.cache
+D:\Soft\VisualStudio\TypesAndVariables\NullValuesArithmetic\obj\Debug\NullValuesArithmetic.exe
+D:\Soft\VisualStudio\TypesAndVariables\NullValuesArithmetic\obj\Debug\NullValuesArithmetic.pdb

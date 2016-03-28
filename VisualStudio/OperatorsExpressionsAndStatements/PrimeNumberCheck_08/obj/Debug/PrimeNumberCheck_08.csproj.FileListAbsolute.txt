@@ -1,0 +1,6 @@
+D:\Soft\VisualStudio\OperatorsExpressionsAndStatements\PrimeNumberCheck_08\bin\Debug\PrimeNumberCheck_08.exe.config
+D:\Soft\VisualStudio\OperatorsExpressionsAndStatements\PrimeNumberCheck_08\bin\Debug\PrimeNumberCheck_08.exe
+D:\Soft\VisualStudio\OperatorsExpressionsAndStatements\PrimeNumberCheck_08\bin\Debug\PrimeNumberCheck_08.pdb
+D:\Soft\VisualStudio\OperatorsExpressionsAndStatements\PrimeNumberCheck_08\obj\Debug\PrimeNumberCheck_08.csprojResolveAssemblyReference.cache
+D:\Soft\VisualStudio\OperatorsExpressionsAndStatements\PrimeNumberCheck_08\obj\Debug\PrimeNumberCheck_08.exe
+D:\Soft\VisualStudio\OperatorsExpressionsAndStatements\PrimeNumberCheck_08\obj\Debug\PrimeNumberCheck_08.pdb

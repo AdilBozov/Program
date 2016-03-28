@@ -1,0 +1,6 @@
+D:\Soft\Web Fundamentals HTML and CSS\Homework HTML5 Forms\Problem 1SimpleForm\bin\Problem 1SimpleForm.dll.config
+D:\Soft\Web Fundamentals HTML and CSS\Homework HTML5 Forms\Problem 1SimpleForm\bin\Problem 1SimpleForm.dll
+D:\Soft\Web Fundamentals HTML and CSS\Homework HTML5 Forms\Problem 1SimpleForm\bin\Problem 1SimpleForm.pdb
+D:\Soft\Web Fundamentals HTML and CSS\Homework HTML5 Forms\Problem 1SimpleForm\obj\Debug\Problem 1SimpleForm.csprojResolveAssemblyReference.cache
+D:\Soft\Web Fundamentals HTML and CSS\Homework HTML5 Forms\Problem 1SimpleForm\obj\Debug\Problem 1SimpleForm.dll
+D:\Soft\Web Fundamentals HTML and CSS\Homework HTML5 Forms\Problem 1SimpleForm\obj\Debug\Problem 1SimpleForm.pdb

@@ -1,0 +1,6 @@
+D:\Soft\VisualStudio\IntroProgrammingHomework\SquareRoot\bin\Debug\SquareRoot.exe.config
+D:\Soft\VisualStudio\IntroProgrammingHomework\SquareRoot\bin\Debug\SquareRoot.exe
+D:\Soft\VisualStudio\IntroProgrammingHomework\SquareRoot\bin\Debug\SquareRoot.pdb
+D:\Soft\VisualStudio\IntroProgrammingHomework\SquareRoot\obj\Debug\SquareRoot.csprojResolveAssemblyReference.cache
+D:\Soft\VisualStudio\IntroProgrammingHomework\SquareRoot\obj\Debug\SquareRoot.exe
+D:\Soft\VisualStudio\IntroProgrammingHomework\SquareRoot\obj\Debug\SquareRoot.pdb

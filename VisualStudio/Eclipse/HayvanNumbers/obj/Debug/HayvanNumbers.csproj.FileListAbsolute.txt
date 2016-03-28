@@ -1,0 +1,6 @@
+D:\Soft\VisualStudio\Eclipse\HayvanNumbers\bin\Debug\HayvanNumbers.exe.config
+D:\Soft\VisualStudio\Eclipse\HayvanNumbers\bin\Debug\HayvanNumbers.exe
+D:\Soft\VisualStudio\Eclipse\HayvanNumbers\bin\Debug\HayvanNumbers.pdb
+D:\Soft\VisualStudio\Eclipse\HayvanNumbers\obj\Debug\HayvanNumbers.csprojResolveAssemblyReference.cache
+D:\Soft\VisualStudio\Eclipse\HayvanNumbers\obj\Debug\HayvanNumbers.exe
+D:\Soft\VisualStudio\Eclipse\HayvanNumbers\obj\Debug\HayvanNumbers.pdb

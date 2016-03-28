@@ -1,0 +1,6 @@
+D:\Soft\02Nivo2\OOP\DefiningClasess\DefineClassDog2\bin\Debug\DefineClassDog2.exe.config
+D:\Soft\02Nivo2\OOP\DefiningClasess\DefineClassDog2\bin\Debug\DefineClassDog2.exe
+D:\Soft\02Nivo2\OOP\DefiningClasess\DefineClassDog2\bin\Debug\DefineClassDog2.pdb
+D:\Soft\02Nivo2\OOP\DefiningClasess\DefineClassDog2\obj\Debug\DefineClassDog2.csprojResolveAssemblyReference.cache
+D:\Soft\02Nivo2\OOP\DefiningClasess\DefineClassDog2\obj\Debug\DefineClassDog2.exe
+D:\Soft\02Nivo2\OOP\DefiningClasess\DefineClassDog2\obj\Debug\DefineClassDog2.pdb

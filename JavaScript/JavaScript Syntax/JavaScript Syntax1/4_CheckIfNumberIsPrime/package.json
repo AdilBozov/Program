@@ -1,0 +1,10 @@
+{
+  "name": "_4_CheckIfNumberIsPrime",
+  "version": "0.0.0",
+  "description": "4_CheckIfNumberIsPrime",
+  "main": "app.js",
+  "author": {
+    "name": "Adil Bozov",
+    "email": ""
+  }
+}

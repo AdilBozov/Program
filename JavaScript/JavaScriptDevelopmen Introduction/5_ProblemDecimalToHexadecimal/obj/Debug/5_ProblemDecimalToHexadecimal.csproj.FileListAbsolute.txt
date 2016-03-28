@@ -1,0 +1,6 @@
+D:\Soft\JavaScript\JavaScriptDevelopmen Introduction\5_ProblemDecimalToHexadecimal\bin\5_ProblemDecimalToHexadecimal.dll.config
+D:\Soft\JavaScript\JavaScriptDevelopmen Introduction\5_ProblemDecimalToHexadecimal\bin\5_ProblemDecimalToHexadecimal.dll
+D:\Soft\JavaScript\JavaScriptDevelopmen Introduction\5_ProblemDecimalToHexadecimal\bin\5_ProblemDecimalToHexadecimal.pdb
+D:\Soft\JavaScript\JavaScriptDevelopmen Introduction\5_ProblemDecimalToHexadecimal\obj\Debug\5_ProblemDecimalToHexadecimal.csprojResolveAssemblyReference.cache
+D:\Soft\JavaScript\JavaScriptDevelopmen Introduction\5_ProblemDecimalToHexadecimal\obj\Debug\5_ProblemDecimalToHexadecimal.dll
+D:\Soft\JavaScript\JavaScriptDevelopmen Introduction\5_ProblemDecimalToHexadecimal\obj\Debug\5_ProblemDecimalToHexadecimal.pdb

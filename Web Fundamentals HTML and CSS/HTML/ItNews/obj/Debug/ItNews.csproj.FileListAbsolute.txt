@@ -1,0 +1,6 @@
+D:\Soft\JavaScript\izpit\ItNews\bin\ItNews.dll.config
+D:\Soft\JavaScript\izpit\ItNews\bin\ItNews.dll
+D:\Soft\JavaScript\izpit\ItNews\bin\ItNews.pdb
+D:\Soft\JavaScript\izpit\ItNews\obj\Debug\ItNews.csprojResolveAssemblyReference.cache
+D:\Soft\JavaScript\izpit\ItNews\obj\Debug\ItNews.dll
+D:\Soft\JavaScript\izpit\ItNews\obj\Debug\ItNews.pdb

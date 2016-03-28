@@ -1,0 +1,10 @@
+{
+  "name": "pricesTrendsJS",
+  "version": "0.0.0",
+  "description": "pricesTrendsJS",
+  "main": "app.js",
+  "author": {
+    "name": "Adil Bozov",
+    "email": ""
+  }
+}

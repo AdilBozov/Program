@@ -1,0 +1,6 @@
+D:\Soft\VisualStudio\Loops\Calculate_n_On_k_07\bin\Debug\Calculate_n_On_k_07.exe.config
+D:\Soft\VisualStudio\Loops\Calculate_n_On_k_07\bin\Debug\Calculate_n_On_k_07.exe
+D:\Soft\VisualStudio\Loops\Calculate_n_On_k_07\bin\Debug\Calculate_n_On_k_07.pdb
+D:\Soft\VisualStudio\Loops\Calculate_n_On_k_07\obj\Debug\Calculate_n_On_k_07.csprojResolveAssemblyReference.cache
+D:\Soft\VisualStudio\Loops\Calculate_n_On_k_07\obj\Debug\Calculate_n_On_k_07.exe
+D:\Soft\VisualStudio\Loops\Calculate_n_On_k_07\obj\Debug\Calculate_n_On_k_07.pdb

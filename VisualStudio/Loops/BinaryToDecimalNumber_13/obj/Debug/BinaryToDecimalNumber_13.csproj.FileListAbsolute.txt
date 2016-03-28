@@ -1,0 +1,6 @@
+D:\Soft\VisualStudio\Loops\BinaryToDecimalNumber_13\bin\Debug\BinaryToDecimalNumber_13.exe.config
+D:\Soft\VisualStudio\Loops\BinaryToDecimalNumber_13\bin\Debug\BinaryToDecimalNumber_13.exe
+D:\Soft\VisualStudio\Loops\BinaryToDecimalNumber_13\bin\Debug\BinaryToDecimalNumber_13.pdb
+D:\Soft\VisualStudio\Loops\BinaryToDecimalNumber_13\obj\Debug\BinaryToDecimalNumber_13.csprojResolveAssemblyReference.cache
+D:\Soft\VisualStudio\Loops\BinaryToDecimalNumber_13\obj\Debug\BinaryToDecimalNumber_13.exe
+D:\Soft\VisualStudio\Loops\BinaryToDecimalNumber_13\obj\Debug\BinaryToDecimalNumber_13.pdb

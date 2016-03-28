@@ -1,0 +1,84 @@
+Test 1 in:
+22.03.2014
+17.05.1933
+10.10.1954
+
+Test 1 out:
+The biggest fan of ewoks was born on Sat Mar 22 2014
+The biggest hater of ewoks was born on Wed May 17 1933
+
+--------------------------------------------------------------------------
+
+Test 2 in:
+22.03.2000
+
+Test 2 out:
+The biggest fan of ewoks was born on Wed Mar 22 2000
+
+--------------------------------------------------------------------------
+
+Test 3 in:
+22.03.1700
+01.07.2020
+
+Test 3 out:
+No result
+
+
+function ewoksFans(input){
+    var year = new Array;
+    var month = new Array;
+    var day = new Array;
+    for (var i = 0; i < input.length; i++) {
+        var date = input[i].split('.');
+        day[i] = parseInt(date[0]);
+        month[i] = parseInt(date[1]);
+        year[i] = parseInt(date[2]);
+    }
+    var m = year.
+    
+    }
+}
+
+ewoksFans(['22.03.2014', '17.05.1933', '10.10.1954']);
+
+
+function ewoksFans(input){
+    var year = new Array;
+    var month = new Array;
+    var day = new Array;
+    var sum = 0;
+    var yearRe = 0
+    for (var i = 0; i < input.length; i++) {
+        var date = input[i].split('.');
+        day[i] = parseInt(date[0]);
+        month[i] = parseInt(date[1]);
+        year[i] = parseInt(date[2]);
+    }
+    for (var i = 0; i<year.length; i++){
+        if (year[i] < 1900 || year[i] > 2015){
+            sum = sum + 1;
+            if (sum == year.length) {
+                console.log('No result');
+            }
+        } else if (year[i] > year[i + 1]) {
+
+        }
+        
+    }
+}
+
+ewoksFans(['22.03.2014', '17.05.1933', '10.10.1954']);
+
+function ewoksFans(input){
+    var dateRe = new Array;
+    var pattern = /(\d{2})\.(\d{2})\.(\d{4})/;
+    for (var i = 0; i < input.length; i++){
+        dateRe[i] = new Date(input[i].replace(pattern, '$3-$2-$1'));
+        console.log(dateRe[i]);
+    }
+    
+}
+    
+
+ewoksFans(['22.03.2014', '17.05.1933', '10.10.1954']);

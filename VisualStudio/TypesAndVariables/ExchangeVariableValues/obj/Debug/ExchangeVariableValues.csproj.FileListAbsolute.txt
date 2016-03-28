@@ -1,0 +1,5 @@
+D:\Soft\VisualStudio\TypesAndVariables\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe.config
+D:\Soft\VisualStudio\TypesAndVariables\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.exe
+D:\Soft\VisualStudio\TypesAndVariables\ExchangeVariableValues\bin\Debug\ExchangeVariableValues.pdb
+D:\Soft\VisualStudio\TypesAndVariables\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.exe
+D:\Soft\VisualStudio\TypesAndVariables\ExchangeVariableValues\obj\Debug\ExchangeVariableValues.pdb

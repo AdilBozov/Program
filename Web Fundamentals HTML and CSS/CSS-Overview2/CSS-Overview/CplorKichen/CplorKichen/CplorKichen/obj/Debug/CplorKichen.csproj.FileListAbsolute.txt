@@ -1,0 +1,6 @@
+D:\Soft\Web Fundamentals HTML and CSS\CSS-Overview2\CSS-Overview\CplorKichen\CplorKichen\CplorKichen\bin\CplorKichen.dll.config
+D:\Soft\Web Fundamentals HTML and CSS\CSS-Overview2\CSS-Overview\CplorKichen\CplorKichen\CplorKichen\bin\CplorKichen.dll
+D:\Soft\Web Fundamentals HTML and CSS\CSS-Overview2\CSS-Overview\CplorKichen\CplorKichen\CplorKichen\bin\CplorKichen.pdb
+D:\Soft\Web Fundamentals HTML and CSS\CSS-Overview2\CSS-Overview\CplorKichen\CplorKichen\CplorKichen\obj\Debug\CplorKichen.csprojResolveAssemblyReference.cache
+D:\Soft\Web Fundamentals HTML and CSS\CSS-Overview2\CSS-Overview\CplorKichen\CplorKichen\CplorKichen\obj\Debug\CplorKichen.dll
+D:\Soft\Web Fundamentals HTML and CSS\CSS-Overview2\CSS-Overview\CplorKichen\CplorKichen\CplorKichen\obj\Debug\CplorKichen.pdb

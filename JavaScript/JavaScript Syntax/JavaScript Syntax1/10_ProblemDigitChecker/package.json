@@ -1,0 +1,10 @@
+{
+  "name": "_10_ProblemDigitChecker",
+  "version": "0.0.0",
+  "description": "10_ProblemDigitChecker",
+  "main": "app.js",
+  "author": {
+    "name": "Adil Bozov",
+    "email": ""
+  }
+}

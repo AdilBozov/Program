@@ -1,0 +1,6 @@
+D:\Soft\VisualStudio\Eclipse\BitUPAvtorsko\bin\Debug\BitUPAvtorsko.exe.config
+D:\Soft\VisualStudio\Eclipse\BitUPAvtorsko\obj\Debug\BitUPAvtorsko.csprojResolveAssemblyReference.cache
+D:\Soft\VisualStudio\Eclipse\BitUPAvtorsko\bin\Debug\BitUPAvtorsko.exe
+D:\Soft\VisualStudio\Eclipse\BitUPAvtorsko\bin\Debug\BitUPAvtorsko.pdb
+D:\Soft\VisualStudio\Eclipse\BitUPAvtorsko\obj\Debug\BitUPAvtorsko.exe
+D:\Soft\VisualStudio\Eclipse\BitUPAvtorsko\obj\Debug\BitUPAvtorsko.pdb

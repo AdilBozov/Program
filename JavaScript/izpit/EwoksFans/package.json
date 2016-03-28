@@ -1,0 +1,10 @@
+{
+  "name": "EwoksFans",
+  "version": "0.0.0",
+  "description": "EwoksFans",
+  "main": "app.js",
+  "author": {
+    "name": "Adil Bozov",
+    "email": ""
+  }
+}

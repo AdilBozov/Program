@@ -1,0 +1,6 @@
+D:\Soft\Web Fundamentals HTML and CSS\CSS-Presentation\Problem 1.The Jaunty Text Field\TheJauntyTextField\bin\TheJauntyTextField.dll.config
+D:\Soft\Web Fundamentals HTML and CSS\CSS-Presentation\Problem 1.The Jaunty Text Field\TheJauntyTextField\bin\TheJauntyTextField.dll
+D:\Soft\Web Fundamentals HTML and CSS\CSS-Presentation\Problem 1.The Jaunty Text Field\TheJauntyTextField\bin\TheJauntyTextField.pdb
+D:\Soft\Web Fundamentals HTML and CSS\CSS-Presentation\Problem 1.The Jaunty Text Field\TheJauntyTextField\obj\Debug\TheJauntyTextField.csprojResolveAssemblyReference.cache
+D:\Soft\Web Fundamentals HTML and CSS\CSS-Presentation\Problem 1.The Jaunty Text Field\TheJauntyTextField\obj\Debug\TheJauntyTextField.dll
+D:\Soft\Web Fundamentals HTML and CSS\CSS-Presentation\Problem 1.The Jaunty Text Field\TheJauntyTextField\obj\Debug\TheJauntyTextField.pdb

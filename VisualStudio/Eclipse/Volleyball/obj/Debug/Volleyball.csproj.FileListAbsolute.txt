@@ -1,0 +1,6 @@
+D:\Soft\VisualStudio\Eclipse\Volleyball\bin\Debug\Volleyball.exe.config
+D:\Soft\VisualStudio\Eclipse\Volleyball\bin\Debug\Volleyball.exe
+D:\Soft\VisualStudio\Eclipse\Volleyball\bin\Debug\Volleyball.pdb
+D:\Soft\VisualStudio\Eclipse\Volleyball\obj\Debug\Volleyball.exe
+D:\Soft\VisualStudio\Eclipse\Volleyball\obj\Debug\Volleyball.pdb
+D:\Soft\VisualStudio\Eclipse\Volleyball\obj\Debug\Volleyball.csprojResolveAssemblyReference.cache

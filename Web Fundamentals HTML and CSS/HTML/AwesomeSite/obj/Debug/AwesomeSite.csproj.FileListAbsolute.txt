@@ -1,0 +1,6 @@
+D:\Soft\JavaScript\izpit\HTML\AwesomeSite\bin\AwesomeSite.dll.config
+D:\Soft\JavaScript\izpit\HTML\AwesomeSite\bin\AwesomeSite.dll
+D:\Soft\JavaScript\izpit\HTML\AwesomeSite\bin\AwesomeSite.pdb
+D:\Soft\JavaScript\izpit\HTML\AwesomeSite\obj\Debug\AwesomeSite.csprojResolveAssemblyReference.cache
+D:\Soft\JavaScript\izpit\HTML\AwesomeSite\obj\Debug\AwesomeSite.dll
+D:\Soft\JavaScript\izpit\HTML\AwesomeSite\obj\Debug\AwesomeSite.pdb

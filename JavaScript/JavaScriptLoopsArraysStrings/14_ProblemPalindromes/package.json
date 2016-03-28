@@ -1,0 +1,10 @@
+{
+  "name": "_14_ProblemPalindromes",
+  "version": "0.0.0",
+  "description": "14_ProblemPalindromes",
+  "main": "app.js",
+  "author": {
+    "name": "Adil Bozov",
+    "email": ""
+  }
+}

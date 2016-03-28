@@ -1,0 +1,6 @@
+D:\Soft\VisualStudio\IntroProgrammingHomework\TenYears\bin\Debug\TenYears.exe.config
+D:\Soft\VisualStudio\IntroProgrammingHomework\TenYears\bin\Debug\TenYears.exe
+D:\Soft\VisualStudio\IntroProgrammingHomework\TenYears\bin\Debug\TenYears.pdb
+D:\Soft\VisualStudio\IntroProgrammingHomework\TenYears\obj\Debug\TenYears.csprojResolveAssemblyReference.cache
+D:\Soft\VisualStudio\IntroProgrammingHomework\TenYears\obj\Debug\TenYears.exe
+D:\Soft\VisualStudio\IntroProgrammingHomework\TenYears\obj\Debug\TenYears.pdb

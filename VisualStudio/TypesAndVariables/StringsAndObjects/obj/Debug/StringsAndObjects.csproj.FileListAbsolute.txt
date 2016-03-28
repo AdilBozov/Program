@@ -1,0 +1,6 @@
+D:\Soft\VisualStudio\TypesAndVariables\StringsAndObjects\bin\Debug\StringsAndObjects.exe.config
+D:\Soft\VisualStudio\TypesAndVariables\StringsAndObjects\bin\Debug\StringsAndObjects.exe
+D:\Soft\VisualStudio\TypesAndVariables\StringsAndObjects\bin\Debug\StringsAndObjects.pdb
+D:\Soft\VisualStudio\TypesAndVariables\StringsAndObjects\obj\Debug\StringsAndObjects.exe
+D:\Soft\VisualStudio\TypesAndVariables\StringsAndObjects\obj\Debug\StringsAndObjects.pdb
+D:\Soft\VisualStudio\TypesAndVariables\StringsAndObjects\obj\Debug\StringsAndObjects.csprojResolveAssemblyReference.cache

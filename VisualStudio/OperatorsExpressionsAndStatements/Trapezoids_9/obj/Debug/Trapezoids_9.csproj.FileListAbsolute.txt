@@ -1,0 +1,6 @@
+D:\Soft\VisualStudio\OperatorsExpressionsAndStatements\Trapezoids_9\bin\Debug\Trapezoids_9.exe.config
+D:\Soft\VisualStudio\OperatorsExpressionsAndStatements\Trapezoids_9\obj\Debug\Trapezoids_9.csprojResolveAssemblyReference.cache
+D:\Soft\VisualStudio\OperatorsExpressionsAndStatements\Trapezoids_9\bin\Debug\Trapezoids_9.exe
+D:\Soft\VisualStudio\OperatorsExpressionsAndStatements\Trapezoids_9\bin\Debug\Trapezoids_9.pdb
+D:\Soft\VisualStudio\OperatorsExpressionsAndStatements\Trapezoids_9\obj\Debug\Trapezoids_9.exe
+D:\Soft\VisualStudio\OperatorsExpressionsAndStatements\Trapezoids_9\obj\Debug\Trapezoids_9.pdb

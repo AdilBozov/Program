@@ -1,0 +1,3 @@
+D:\Soft\02Nivo2\OOP\DefiningClasess\PersonsMain\bin\Debug\PersonsMain.exe.config
+D:\Soft\02Nivo2\OOP\DefiningClasess\PersonsMain\obj\Debug\PersonsMain.exe
+D:\Soft\02Nivo2\OOP\DefiningClasess\PersonsMain\obj\Debug\PersonsMain.pdb

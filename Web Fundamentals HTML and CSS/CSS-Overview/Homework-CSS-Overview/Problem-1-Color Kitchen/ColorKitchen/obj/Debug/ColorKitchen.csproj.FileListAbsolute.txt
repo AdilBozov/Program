@@ -1,0 +1,6 @@
+D:\Soft\Web Fundamentals HTML and CSS\CSS-Overview\Homework-CSS-Overview\Problem-1-Color Kitchen\ColorKitchen\bin\ColorKitchen.dll.config
+D:\Soft\Web Fundamentals HTML and CSS\CSS-Overview\Homework-CSS-Overview\Problem-1-Color Kitchen\ColorKitchen\bin\ColorKitchen.dll
+D:\Soft\Web Fundamentals HTML and CSS\CSS-Overview\Homework-CSS-Overview\Problem-1-Color Kitchen\ColorKitchen\bin\ColorKitchen.pdb
+D:\Soft\Web Fundamentals HTML and CSS\CSS-Overview\Homework-CSS-Overview\Problem-1-Color Kitchen\ColorKitchen\obj\Debug\ColorKitchen.csprojResolveAssemblyReference.cache
+D:\Soft\Web Fundamentals HTML and CSS\CSS-Overview\Homework-CSS-Overview\Problem-1-Color Kitchen\ColorKitchen\obj\Debug\ColorKitchen.dll
+D:\Soft\Web Fundamentals HTML and CSS\CSS-Overview\Homework-CSS-Overview\Problem-1-Color Kitchen\ColorKitchen\obj\Debug\ColorKitchen.pdb

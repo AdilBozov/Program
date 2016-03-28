@@ -1,0 +1,6 @@
+D:\Soft\JavaScript\izpit\HTML\Unresponsive to Responsive Site\bin\Unresponsive to Responsive Site.dll.config
+D:\Soft\JavaScript\izpit\HTML\Unresponsive to Responsive Site\bin\Unresponsive to Responsive Site.dll
+D:\Soft\JavaScript\izpit\HTML\Unresponsive to Responsive Site\bin\Unresponsive to Responsive Site.pdb
+D:\Soft\JavaScript\izpit\HTML\Unresponsive to Responsive Site\obj\Debug\Unresponsive to Responsive Site.csprojResolveAssemblyReference.cache
+D:\Soft\JavaScript\izpit\HTML\Unresponsive to Responsive Site\obj\Debug\Unresponsive to Responsive Site.dll
+D:\Soft\JavaScript\izpit\HTML\Unresponsive to Responsive Site\obj\Debug\Unresponsive to Responsive Site.pdb

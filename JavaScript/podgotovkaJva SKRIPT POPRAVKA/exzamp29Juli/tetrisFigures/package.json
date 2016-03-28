@@ -1,0 +1,10 @@
+{
+  "name": "tetrisFigures",
+  "version": "0.0.0",
+  "description": "tetrisFigures",
+  "main": "app.js",
+  "author": {
+    "name": "Adil Bozov",
+    "email": ""
+  }
+}

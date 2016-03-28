@@ -1,0 +1,5 @@
+D:\Soft\VisualStudio\IntroProgrammingHomework\PascalCase\bin\Debug\PascalCase.exe.config
+D:\Soft\VisualStudio\IntroProgrammingHomework\PascalCase\bin\Debug\PascalCase.exe
+D:\Soft\VisualStudio\IntroProgrammingHomework\PascalCase\bin\Debug\PascalCase.pdb
+D:\Soft\VisualStudio\IntroProgrammingHomework\PascalCase\obj\Debug\PascalCase.exe
+D:\Soft\VisualStudio\IntroProgrammingHomework\PascalCase\obj\Debug\PascalCase.pdb

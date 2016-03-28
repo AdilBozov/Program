@@ -1,0 +1,81 @@
+﻿body {
+    font-family: Tahoma, sans-serif;
+}
+
+#container {
+    width: 680px;
+    height: 460px;
+    margin: 0 auto;
+    background-color: #eeeeee;
+}
+h1 {
+    color:#1a3d5f;
+    padding:10px;
+}
+header p {
+    color:#a4a4a4;
+    font-size:0.8em;
+    padding-left:10px;
+    margin-bottom:30px;
+    margin-top: -20px;
+}
+#register {
+    float:left;
+    width:300px;
+    height: 200px;
+    padding :15px;
+}
+#login {
+    float:left;
+    width:300px;
+    height:300px;
+    padding:15px;
+    background-color:#234465;
+    color:white;
+}
+#new {
+   color:#6d6d6d;
+}
+#reg {
+    color:#16395c;
+}
+input {
+    height:40px;
+    width:286px;
+    margin-bottom:15px;
+    padding-left:10px;
+}
+#register p, #login p {
+    font-weight:bold;
+    margin-top:-5px;
+}
+#register input[type="submit"]{
+    float:right;
+    width:140px;
+    background-color:#eeeeee;
+    border-color:#365472;
+    border-style:solid;
+    color:#365472;
+}
+#login input[type="submit"]{
+    width:140px;
+    background-color:#234465;
+    border-color:#ffa700;
+    border-style:solid;
+    float:right;
+    color:white;
+}
+#login input[type="checkbox"]{
+    width:20px;
+    height:20px;
+    float:left;
+}
+#login label{
+    font-size:13px;
+    vertical-align:top;
+}
+#login a {
+    font-size:13px;
+    color:white;
+    padding-left:200px;
+}
